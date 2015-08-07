@@ -1,0 +1,38 @@
+[
+  {
+    "remote": "TeamBliss-Devices",
+    "repository": "android_device_samsung_jf-common",
+    "target_path": "device/samsung/jf-common",
+    "revision": "lp5.1"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common",
+    "revision": "cm-12.1"  
+  },
+  {
+    "remote": "cm",
+    "repository": "android_device_samsung_msm8960-common",
+    "target_path": "device/samsung/msm8960-common",
+    "revision": "cm-12.1"  
+  },
+  {
+    "remote": "cm",
+    "repository": "android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "revision": "cm-12.1"  
+  },
+  {
+    "remote": "TeamBliss-Devices",
+    "repository": "android_kernel_samsung_jflte",
+    "target_path": "kernel/samsung/jflte",
+    "revision": "lp5.1"
+  },
+  {
+    "remote": "github",
+    "repository": "TheMuppets/proprietary_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "revision": "cm-12.1"
+  }
+]
