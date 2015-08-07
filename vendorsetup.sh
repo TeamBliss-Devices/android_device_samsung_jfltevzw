@@ -1,2 +1,2 @@
-add_lunch_combo cm_jfltevzw-eng
+add_lunch_combo bliss_jfltevzw-userdebug
 
